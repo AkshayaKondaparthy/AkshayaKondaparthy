@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Akshaya 👋
 
-<!--
-**AkshayaKondaparthy/AkshayaKondaparthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year CSE Student  
+💻 Frontend Developer (React, JavaScript)  
+🌱 Learning Open Source  
+🎯 Aspiring GSoC 2026 Contributor  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- Building React projects
+- Contributing to open source
+- Preparing for GSoC 2026
+
+### 📫 Connect with me
+- GitHub: https://github.com/AkshayaKondaparthy
+- LinkedIn: https://www.linkedin.com/in/akshaya-kondaparthy-173367292/
+
