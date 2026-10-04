@@ -1,4 +1,4 @@
-# Hi, I'm Akshaya 👋
+# Hi, I'm Akshaya Kondaparthy 👋
 
 🎓 Computer Science & Engineering Undergraduate @ SCETW
 💻 Software Developer | AI/ML Enthusiast
